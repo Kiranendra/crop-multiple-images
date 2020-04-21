@@ -1,0 +1,1 @@
+Cropping multiple images
